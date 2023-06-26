@@ -3,7 +3,7 @@ import { useState } from 'react'
 
 function App() {
 
-  let [show, setShow]=useState()
+  let [show, setShow]=useState(true)
 
   function toggleShow(){
     setShow(!show)
