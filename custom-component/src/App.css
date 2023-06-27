@@ -1,0 +1,12 @@
+button{
+  margin: 10px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  border: solid 2px transparent;
+  background-color: pink;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button:hover{
+  border: solid 2px black;
+}
