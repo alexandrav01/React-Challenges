@@ -1,0 +1,26 @@
+body{
+  background-color: rgb(250, 194, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+ 
+}
+
+.body-wrap{
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.break{
+  border: solid 1px pink;
+  border-style:dashed;
+  width: 100%;
+}

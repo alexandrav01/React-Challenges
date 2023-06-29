@@ -1,0 +1,12 @@
+button{
+    margin: 15px;
+    padding: 10px;
+    width: 200px;
+    border: solid 2px transparent;
+    border-radius: 15px;
+    font-size: medium;
+    background-color: rgb(181, 255, 255);
+}
+button:hover{
+    border: solid 2px pink;
+}
